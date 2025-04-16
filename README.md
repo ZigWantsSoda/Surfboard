@@ -8,14 +8,15 @@ Surfboard is a C Browser based on GTK 3 and WebkitGTK
 5. **Might Turn Into a Fully Fledged Browser and make a fork called "Surfboard lite" which will take responsibliliy to be this project(that was a strech)**
 And many more
 # Build
-To Build Surfboard Follow these steps.
-> Step 1. Clone this Repo and enter into it<br>
-`git clone https://github.com/ZigWantsSoda/Surfboard`
->  Step 2. Open "Surfboard"<br>
-`cd Surfboard`
-> Step 3. make <br>
-`make`
+
+
+To Build Surfboard type these commands in the terminal.<br>
+`git clone https://github.com/ZigWantsSoda/Surfboard` <br>
+`cd Surfboard`<br>
+`make`<br>
 **And your done!**
+
+
 
 # THIS PROJECT IS WORK IN PROGRESS I REPEAT THIS IS WORK IN PROGRESS
 
